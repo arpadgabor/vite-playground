@@ -1,0 +1,13 @@
+{
+  "exclude": [],
+  "include": [
+    "./src/**/*"
+  ],
+  "compilerOptions": {
+    "module": "ES2020",
+    "moduleResolution": "node",
+    "target": "es5",
+    "sourceMap": true,
+    "allowJs": true
+  }
+}
